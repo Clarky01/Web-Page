@@ -1,5 +1,5 @@
 .App {
-  text-align: left;
+  text-align: center;
 }
 
 .App-logo {
@@ -18,8 +18,8 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: left;
-  justify-content: left;
+  align-items: center;
+  justify-content: center;
   font-size: calc(10px + 2vmin);
   color: rgb(170, 155, 155);
 }
@@ -39,8 +39,8 @@
 /* Ensure the navbar takes full width and centers its content */
 .navbar {
   display: flex;
-  justify-content: left; /* Center horizontally */
-  background-color: #f8f9fa; /* Light background */
+  justify-content: center; /* Center horizontally */
+  background-color: #3b9dff; /* Light background */
   padding: 1rem 0; /* Padding for a nicer look */
 }
 
