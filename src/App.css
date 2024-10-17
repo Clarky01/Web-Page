@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  text-align: right;
 }
 
 .App-logo {
@@ -18,8 +18,8 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  align-items: right;
+  justify-content: right;
   font-size: calc(10px + 2vmin);
   color: rgb(170, 155, 155);
 }
@@ -49,7 +49,7 @@
   list-style: none;
   padding: 0;
   margin: 0;
-  gap: 50px; /* Adds space between the buttons */
+  gap: 20px; /* Adds space between the buttons */
 }
 
 .nav-item {
