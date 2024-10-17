@@ -39,7 +39,7 @@
 /* Ensure the navbar takes full width and centers its content */
 .navbar {
   display: flex;
-  justify-content: center; /* Center horizontally */
+  justify-content: right; /* Center horizontally */
   background-color: #f8f9fa; /* Light background */
   padding: 1rem 0; /* Padding for a nicer look */
 }
