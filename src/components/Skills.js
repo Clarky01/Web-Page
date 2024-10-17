@@ -5,11 +5,10 @@ const Skills = () => {
     <div className="container">
       <h1>My Skills</h1>
       <ul>
-        <li>JavaScript</li>
+        <li>Java</li>
+        <li>PHP</li>
         <li>React.js</li>
-        <li>CSS</li>
         <li>HTML</li>
-        <li>Node.js</li>
       </ul>
     </div>
   );
