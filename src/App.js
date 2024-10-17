@@ -8,7 +8,7 @@ import Contact from './components/Contact';
 function App() {
   return (
     <Router>
-      <nav className="navbar navbar-expand-lg navbar-light bg-light">
+      <nav className="navbar navbar-expand-lg navbar-light bg-light navbar-center">
         <ul className="navbar-nav mr-auto">
           <li className="nav-item">
             <Link className="nav-link" to="/">Home</Link>
@@ -24,6 +24,7 @@ function App() {
           </li>
         </ul>
       </nav>
+      
 
       <Routes>
         <Route path="/" element={<Home />} />
